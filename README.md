@@ -1,16 +1,22 @@
+## Obsidian Quick Note
+
 ![./image.png](./image.png)
 
-demo: https://vimeo.com/790940834
+mac demo: https://vimeo.com/790940834
+<br/>
+windows: demo: https://vimeo.com/791261137
 
-Install & Tips;
+## **Install**
 
-- Download, unzip and open
-- Select the file you want to use with the settings icon
+- Download & extract file
+  - Obsidian Quick Note-macOS.zip (mac OS)
+  - Obsidian Quick Note-win32-x64 (windows)
+- Run executable (.dmg for mac OS/.exe for windows)
+- Select the obsidian file you want to add to with the settings icon. New notes will be added to the top
+- Add the program to startup programs so you can always access it
 
-- Command + Option + O to show menu
-- Escape/Click outside to hide the menu
+## **Shortcuts**
 
-Caveat's;
-
-- Only for mac/only tested on mac
-- Probably contains some bugs 🤷‍♂️
+- mac OS: Command+Option+O to show menu
+- Windows: Control+Option+O to show menu
+- both: Escape/Click outside to hide the menu
