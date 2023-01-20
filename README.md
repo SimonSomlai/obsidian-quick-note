@@ -1,5 +1,7 @@
 ## Obsidian Quick Note
 
+Todoist-like global prompt for quickly entering new obsidian notes (or any other text-based file)
+
 ![./image.png](./image.png)
 
 mac demo: https://vimeo.com/790940834
